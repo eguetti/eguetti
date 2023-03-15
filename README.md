@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eguetti
-- 👀 I’m interested in Web Semantic and Privacy
-- 🌱 I’m currently learning Unity and Machine Learning
+- 👀 I’m interested in Web Semantic, Ontologies, Wikidata and Differential Privacy
+- 🌱 I’m currently learning Machine Learning and Natural Language Processing
 - 💞️ I’m looking to collaborate on Wikidata, open data and privacy
 - 📫 How to reach me 
 
